@@ -25,7 +25,7 @@ To execute the test run:
 docker-compose run --rm k6 run scripts/test.js
 ```
 Browse [http://localhost:3000/d/Le2Ku9NMk/k6-performance-test](http://localhost:3000/d/Le2Ku9NMk/k6-performance-test) to view the results.
-
+ 
 ## Evaluation
 The following topics will be considered:
 - Code clarity and maintainability
